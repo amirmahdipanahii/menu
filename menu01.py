@@ -26,5 +26,3 @@ while True:
         break
     else:
         print("eror 404!")
-print("name_list:",name_list)
-print("number_list:",number_list)
